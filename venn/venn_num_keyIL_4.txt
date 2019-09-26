@@ -1,0 +1,9 @@
+Var1	Freq
+	475
+Macs	19
+Macs_Monos	2
+Macs_Monos_PMNs	2
+Macs_PMNs	2
+Monos	15
+Monos_PMNs	7
+PMNs	49

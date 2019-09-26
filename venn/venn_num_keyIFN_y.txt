@@ -1,0 +1,14 @@
+Var1	Freq
+	462
+DCs	3
+DCs_Macs	8
+DCs_Macs_Monos	3
+DCs_Macs_Monos_PMNs	7
+DCs_Macs_PMNs	12
+Macs	27
+Macs_Monos	3
+Macs_Monos_PMNs	3
+Macs_PMNs	9
+Monos	1
+Monos_PMNs	2
+PMNs	31

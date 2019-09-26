@@ -1,0 +1,4 @@
+Var1	Freq
+	560
+Macs	6
+PMNs	5

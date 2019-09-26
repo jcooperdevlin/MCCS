@@ -1,0 +1,9 @@
+Var1	Freq
+	485
+Macs	12
+Macs_Monos	1
+Macs_Monos_PMNs	1
+Macs_PMNs	1
+Monos	16
+Monos_PMNs	5
+PMNs	50

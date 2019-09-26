@@ -1,0 +1,2 @@
+cancer_type	test	norm	Survival	trainSetSize	TrainAccuracy	TrainAUC	testSetSize	truePos	falsePos	falseNeg	trueNeg	TestAccuracy	Sensitivity	Specificity	Precision	Recall	BalancedAccuracy	TestAUC
+Glioma	lasso	min.max_norm	2	264	0.890151515151515	0.8379	66	21	11	2	32	0.803030303030303	0.65625	0.941176470588235	0.91304347826087	0.65625	0.798713235294118	0.798713235294118
